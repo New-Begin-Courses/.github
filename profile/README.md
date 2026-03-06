@@ -1,8 +1,5 @@
 <div width="100%" align="center">
-  <img width="25%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0f172a"/>
-  <img width="25%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=5E60CE"/>
-  <img width="25%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=6930C3"/>
-  <img width="25%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=4EA8DE"/>
+  <img width="25%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0f172a"/><img width="25%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=5E60CE"/><img width="25%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=6930C3"/><img width="25%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=4EA8DE"/>
 </div>
 
 ##
@@ -78,8 +75,5 @@ Software Development Student, Technology Enthusiast
 ##
 
 <div width="100%" align="center">
-  <img width="25%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0f172a"/>
-  <img width="25%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=5E60CE"/>
-  <img width="25%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=6930C3"/>
-  <img width="25%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=4EA8DE"/>
+  <img width="25%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0f172a"/><img width="25%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=5E60CE"/><img width="25%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=6930C3"/><img width="25%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=4EA8DE"/>
 </div>
