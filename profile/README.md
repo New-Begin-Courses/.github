@@ -10,65 +10,54 @@
 
 ##
 
-<h3 align="center">📖 About This Organization 📖</h3>
+<h3 align="center">📖 Sobre esta organização 📖</h3>
 
 <p align="left">
 
-<strong>New Begin Courses</strong> is a GitHub organization created to store and organize projects developed during courses, tutorials, and study sessions.
+<strong>New Begin Courses</strong> é uma organização criada para armazenar e organizar projetos desenvolvidos durante cursos, tutoriais e sessões de estudo.
 
-The goal of this organization is to maintain a **clean, structured, and centralized environment** where all learning experiments and projects can be documented and preserved.
+O objetivo desta organização é manter um **ambiente limpo, estruturado e centralizado** onde todos os experimentos e projetos de aprendizagem possam ser documentados e preservados.
 
-Each repository represents a **course, module, experiment, or practice project**, allowing the tracking of knowledge evolution over time.
+Cada repositório representa um **curso, módulo, experimento ou projeto prático**, permitindo o acompanhamento da evolução do conhecimento ao longo do tempo.
 
 </p>
 
 ##
 
-<h3 align="center">🎯 Purpose 🎯</h3>
+<h3 align="center">🎯 Propósito 🎯</h3>
 
 <p align="left">
 
-This organization exists to:
+Esta organização existe para:
 
 </br>
 
-• Organize projects created during online courses  
-• Store exercises and practical implementations  
-• Document my learning journey in software development  
-• Experiment with different technologies and frameworks  
-• Keep a personal archive of study materials  
+• Organizar projetos criados durante cursos online  
+• Armazenar exercícios práticos e implementações  
+• Documentar minha jornada de aprendizado no desenvolvimento de software  
+• Experimento com diferentes tecnologias e estruturas  
+• Manter um arquivo pessoal com os materiais de estudo  
 
 </p>
 
 ##
 
-<h3 align="center">🧠 Learning Philosophy 🧠</h3>
+<h3 align="center">🧠 Filosofia de aprendizagem 🧠</h3>
 
 <p align="left">
 
-Learning is an iterative process.  
-Every course represents **a new beginning**, a new opportunity to explore concepts, tools, and technologies.
-
-This organization exists to document:
-
-</br>
-
-• experiments  
-• exercises  
-• course projects  
-• learning prototypes  
-
-</p>
+Aprender é um processo iterativo.  
+Cada curso representa **um novo começo**, uma nova oportunidade para explorar conceitos, ferramentas e tecnologias.
 
 ##
 
-<h3 align="center">👨‍💻 Maintained By 👨‍💻</h3>
+<h3 align="center">👨‍💻 Mantido por 👨‍💻</h3>
 
 <p align="center">
 
 <strong>Felipe Aires</strong>
 
-Software Development Student, Technology Enthusiast
+Estudante de Desenvolvimento de Software, Entusiasta de Tecnologia.
 
 </p>
 
